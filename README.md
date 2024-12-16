@@ -4,11 +4,31 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Deleveloper
 --------------------
 
+```yaml
+name: Deepak Singh
+located_in: Jaipur, India
+current_job: Full Stack Developer
+education:
+  [
+    "Self-Taught Developer and Designer",
+    "Bachelor's in Computer Science and Engineering",
+  ]
+company: Phoenix Advanced Softwares Pvt. ltd.
+
+technical_background:
+  [
+    "Full Stack Developer"
+    "Intern - Next.js Developer",
+  ]
+  
+currently_learning: ["Docker, Kubernetes, and React Native"]
+2025 Goals: ["Create 10+ Projects and learn at least 5 new Technologies."]
+hobbies: ["Cinematic Shoot", "Video Editing", "Cricket"]
+```
+
 * 🌍  I'm based in India
 * ✉️  You can contact me at [kapeedsingh2001@gmail.com](mailto:kapeedsingh2001@gmail.com)
 * 🧠  I'm learning Backend Development
-* 🤝  I'm open to collaborating on node.js
-* ⚡  I'm fond of photography, video editing, shoots.
 
 <a href="https://www.github.com/dee2025" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/dee2025?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -39,37 +59,3 @@ src="https://img.shields.io/github/followers/dee2025?logo=github&style=for-the-b
 
 
 
-```yaml
-name: Piyush Malhotra
-located_in: Calgary, Alberta
-current_job: Full Stack Developer
-education:
-  [
-    "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
-  ]
-company: Soulber
-
-fields_of_interests:
-  [
-    "Web Development",
-    "Data Science",
-    "Machine Learning",
-    "UI/UX",
-    "Game Development",
-    "DevOps",
-  ]
-technical_background:
-  [
-    "Full Stack Developer"
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
-  ]
-  
-currently_learning: ["Docker, Kubernetes, and React Native"]
-2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
-```
