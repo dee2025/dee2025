@@ -36,3 +36,40 @@ src="https://img.shields.io/github/followers/dee2025?logo=github&style=for-the-b
 <a href="http://www.github.com/dee2025"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=dee2025&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/dee2025" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dee2025&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+
+```yaml
+name: Piyush Malhotra
+located_in: Calgary, Alberta
+current_job: Full Stack Developer
+education:
+  [
+    "Self-Taught Developer and Designer",
+    "Master's in Electrical and Computer Engineering",
+    "Bachelor's in Electronics and Communication",
+  ]
+company: Soulber
+
+fields_of_interests:
+  [
+    "Web Development",
+    "Data Science",
+    "Machine Learning",
+    "UI/UX",
+    "Game Development",
+    "DevOps",
+  ]
+technical_background:
+  [
+    "Full Stack Developer"
+    "DevOps Solutions Architect",
+    "Intern - Data Science & Machine Learning in Python",
+    "Intern - Internet Of Things",
+    "Intern - VLSI and FPGA Implementation",
+  ]
+  
+currently_learning: ["Docker, Kubernetes, and React Native"]
+2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
+hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+```
